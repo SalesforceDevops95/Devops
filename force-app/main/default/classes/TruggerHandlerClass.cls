@@ -1,9 +1,9 @@
 public with sharing class TruggerHandlerClass {
 
-    public staic void getrecoredsin()
+    Public addition(Integer a, Integer b)
     {
 
-
+        retrun a+b;
     }
     
 }
