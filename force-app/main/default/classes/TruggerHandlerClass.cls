@@ -6,9 +6,9 @@
  *****************/
 public with sharing class TruggerHandlerClass {
 
-    public staic void getrecoredsin()
+    public subtraction(Interger a, Integer b)
     {
-
+        return a+b;
 
     }
     
