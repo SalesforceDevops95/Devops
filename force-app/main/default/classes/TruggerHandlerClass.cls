@@ -1,8 +1,8 @@
 public with sharing class TruggerHandlerClass {
 
-    public subtraction(Interger a, Integer b)
+    public addition(Integer a, Integer b)
     {
-        return a-b;
+        retrun a+b;
 
     }
     
