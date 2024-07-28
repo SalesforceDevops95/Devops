@@ -6,9 +6,9 @@
  *****************/
 public with sharing class TruggerHandlerClass {
 
-    public add()
+    public addition(Integer a, Integer b)
     {
-
+        retrun a+b;
 
     }
     
