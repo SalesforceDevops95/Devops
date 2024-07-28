@@ -2,7 +2,7 @@
 * Name:TruggerHandlerClass
 
 * Author:Sagili
-* Date:2021-04-15
+* Date:2021-04-16
  *****************/
 public with sharing class TruggerHandlerClass {
 
